@@ -1,0 +1,7 @@
+/.vscode/
+/build/
+/romfs/
+/terrain_gen.3dsx
+/terrain_gen.elf
+/terrain_gen.lst
+/terrain_gen.smdh
